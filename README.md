@@ -5,4 +5,4 @@ In this folder Uday is working.
 <br>
 and i am learning github.
 <br>
-i am updating something in the readme.md file
+i am bit slow in learning soo please help me.
